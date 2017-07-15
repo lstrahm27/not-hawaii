@@ -1,0 +1,63 @@
+html {
+    background: #ccffff;
+}
+
+body {
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, .4);
+    padding: 2em 2em 4em;
+    font-family: "Helvetica";
+    line-height: 1.5;
+}
+
+h1, h3, h5 {
+    color: #222;
+    text-align: center;
+}
+
+
+h6 {
+    color: #222;
+}
+
+h2, h4 {
+    color: #222;
+    margin-top: 6px;
+}
+.foreva {
+    width: 140px;
+    padding: 2px;
+    overflow: hidden;
+    margin: auto;
+}
+.foreva img {
+    margin-left: 0px;
+    float: left;
+    padding-top: 0px;
+}
+.date_entry {
+    font-size: 160%;
+    padding-left: 25px;
+    text-align: left;
+    margin-top:20px;
+    margin-bottom:10px;
+}
+p {
+    margin: 15px;
+}
+.displayimg {
+    animation: colorize 2s cubic-bezier(0, 0, .78, .36) 1;
+    background: transparent;
+    border: 10px solid rgba(0, 0, 0, 0.12);
+    border-radius: 4px;
+    display: block;
+    margin: 1.3em auto;
+    max-width: 95%;
+}
+.mia_curl {
+    width: 10em;
+    float: right;
+    margin-top: -80px;
+    padding-right: 310px
+}
+
+
